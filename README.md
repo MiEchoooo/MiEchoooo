@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning in CCNU.
 - 🔭want to be a big shot.
-  
-- 💬 thinking...
-  
+
+
+  💬 thinking...
+
 ⚡ Nice to meet you.
