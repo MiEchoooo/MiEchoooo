@@ -14,3 +14,8 @@
   💬 thinking...
 
 ⚡ Nice to meet you.
+
+<details>
+ <summary>Know more<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></summary>  
+  - Email:3525910649@qq.com
+  - GitHub:https://github.com/MiEchoooo
