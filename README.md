@@ -2,10 +2,9 @@
 ### Hello World! 👋
 <img align='right' src="https://github.com/user-attachments/assets/0170e6e4-659f-4661-92f3-d3dd1666b21f" width="230">  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiEchoooo)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiEchoooo)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiEchoooo)  
 
 - 🌱 I’m currently learning in CCNU.
 - 🔭want to be a big shot.
