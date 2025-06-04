@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiEchoooo)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiEchoooo) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiEchoooo)  
 
 
 - 🌱 I’m currently learning in CCNU.
